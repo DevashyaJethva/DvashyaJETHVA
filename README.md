@@ -31,10 +31,7 @@ My GitHub profile README
 
 ##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevashyaJethva&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevashyaJethva&layout=compact&theme=tokyonight" height="160"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DevashyaJethva&theme=tokyonight" height="160"/>
@@ -42,7 +39,7 @@ My GitHub profile README
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/devashya-jethva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Devashya%20Jethva-blue?style=for-the-badge&logo=linkedin" />
