@@ -1,19 +1,19 @@
 # DvashyaJETHVA
 My GitHub profile README
-<h1 align="center">Hi 👋, I'm Devashya Jethva</h1>
+<h1 align="center">Hi , I'm Devashya Jethva</h1>
 <h3 align="center">Cybersecurity Enthusiast | Beginner Red Team Learner | CTF Explorer</h3>
 
 ---
 
-## 🚀 About Me
-- 🎯 I’m currently learning **Cybersecurity & Ethical Hacking**
-- 🧠 Interested in **Red Teaming, Web Security, and CTF Challenges**
-- 💻 Learning **Linux, Networking, Python, and Security Tools**
-- 🌱 Improving my skills step-by-step every day
+##  About Me
+-  I’m currently learning **Cybersecurity & Ethical Hacking**
+-  Interested in **Red Teaming, Web Security, and CTF Challenges**
+-  Learning **Linux, Networking, Python, and Security Tools**
+-  Improving my skills step-by-step every day
 
 ---
 
-## 🛠 Skills & Tools
+##  Skills & Tools
 - **Languages:** Python (Beginner), C (Basics)
 - **Networking:** TCP/IP, DNS, HTTP/HTTPS
 - **Cybersecurity Tools:** Nmap, Burp Suite, Wireshark (Basics)
@@ -22,14 +22,14 @@ My GitHub profile README
 
 ---
 
-## 📌 Featured Work (Coming Soon 🚧)
-- 📚 Cybersecurity Notes Repository
-- 🧩 TryHackMe / CTF Writeups
-- 🛠 Python Mini Security Tools
+##  Featured Work (Coming Soon )
+- Cybersecurity Notes Repository
+- TryHackMe / CTF Writeups
+-  Python Mini Security Tools
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevashyaJethva&show_icons=true&theme=tokyonight" height="160"/>
@@ -50,7 +50,7 @@ My GitHub profile README
 </p>
 
 ---
-## 📍 Current Focus
+##  Current Focus
 - Web Application Security
 - Linux Privilege Escalation
 - Python for Automation
@@ -58,4 +58,4 @@ My GitHub profile README
 ---
 
 
-⭐ *"Consistency beats talent when talent doesn’t work consistently."*
+ *"Consistency beats talent when talent doesn’t work consistently."*
