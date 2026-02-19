@@ -47,7 +47,7 @@ My GitHub profile README
 </p>
 
 ---
-##  Current Focus
+## Current Focus
 - Web Application Security
 - Linux Privilege Escalation
 - Python for Automation
